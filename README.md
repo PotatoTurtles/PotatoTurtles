@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ty Jones</h1>
+<h1 align="center">Ty Jones</h1>
 <h3 align="center">I'm a full stack developer and a CS freshman at Georgetown.</h3>
 
 - 📫 How to reach me **ty.jones.0820@gmail.com**
